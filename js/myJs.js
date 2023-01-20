@@ -4,7 +4,7 @@ const textConfig = {
   text3: "Mỹ Nữ thích Quang rùi phải không hehe ._.",
   text4: "Nếu ko trả lời mà thoát ra tức là muốn làm vợ Quang gòi đỏ nha :v",
   text5: "M mơ à???",
-  text6: "Iu Linh vãiiii <3",
+  text6: "Iu Quang vãiiii <3",
   text7: "lí do Linh thích Quang đi :))",
   text8: "Gửi cho Quang <3",
   text9: "Vì cậu đẹp try vlllll",
